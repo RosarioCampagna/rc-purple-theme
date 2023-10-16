@@ -1,0 +1,45 @@
+{
+	"name": "rc-purple-theme",
+	"displayName": "RC Purple Theme",
+	"description": "Code with this beautiful purple palette, it won't hurt your eyes and once you get used to it, things will be very easy to find",
+	"publisher": "Rosario",
+	"version": "0.0.7",
+	"engines": {
+		"vscode": "^1.83.0"
+	},
+	"icon": "media/logo.jpeg",
+	"author": {
+		"name": "Rosario Campagna"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RosarioCampagna/rc-purple-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Purple",
+		"Dark Theme",
+		"Purple Theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RC Purple Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RC Purple Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "46ed68cf-0f32-4329-a6f2-b2ca4e7cdfc6",
+		"publisherId": "cffbc473-4bce-46cf-87eb-68e69ef124e1",
+		"publisherDisplayName": "Rosario Campagna",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1697466603329,
+		"preRelease": false
+	}
+}
